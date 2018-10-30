@@ -1,1 +1,5 @@
 # m9-hw7-cole_robert
+
+Issues with this assignment: Besides it being late, I had trouble getting the right javascript for each part. I expescially had a problem figuring out how to add code to just one button or element. I realized it once I went back and rewatched the lectures. I also get confused on "this" and what it is applying to. I eventually figured out to use it on both the buttons and my box elements but I am not sure why it works. Does "this" apply to all elements? What is it pulling from? Other then that, I am sorry it is late. Javascript is challenging for me and I seem to not be absorbing the content when I rewatch the lectures. But these assignments are helping me understand it a lot. I guess I am just missing the purpose of it. It seems like a lot of this can be done in normal CSS? 
+
+Resources used: A plethora of google searches that came to not help me in the end but may have got my brain going so that when went back to the lectures and finally understood it. But mostly just the lectures used.
