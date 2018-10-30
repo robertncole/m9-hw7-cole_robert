@@ -51,6 +51,7 @@ GREEN: #c1e40e
     width: 70%;
     background-color: #c1e40e;
     padding: 15px;
+    margin-top: 25px;
     border-radius: 10px;
     transition: background-color 1s;
 }
@@ -157,6 +158,21 @@ footer h4 {
     background-color: #333333 !important;
     color: white !important;
     transition: background-color 1s;
+}
+.hide-div {
+    height: 0;
+    overflow: hidden;
+    padding-top: 15px;
+    color: #fc713a;
+    font-weight: bold;
+    transition: height 1s !important;
+}
+.show-div {
+    height: 100px !important;
+    padding-top: 15px;
+    color: #fc713a;
+    font-weight: bold;
+    transition: height 1s !important;
 }
 
 /* ** HAMBURGER MENU** */
@@ -361,8 +377,8 @@ footer h4 {
     #desktop {
         display: inline;
         position: absolute;
-        right: 15px;
-        width: 62%;
+        right: 25px;
+        width: 100%;
     }
     li {
         display: inline;
@@ -382,6 +398,7 @@ footer h4 {
 }
     #order_2 {
         display: inline;
+        float: right;
         color: white;
         font-size: 1em;
         background-color: #fc713a;
